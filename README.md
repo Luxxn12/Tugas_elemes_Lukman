@@ -1,6 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## PROJECT ELEMES ID BY MOH ALIF AL LUKMAN
 
-## Getting Started
+## LANGKAH - LANGKAH INSTAL PROJECT
+
 
 First, run the development server:
 
