@@ -2,8 +2,12 @@
 
 ## LANGKAH - LANGKAH INSTAL PROJECT
 
+1. clone link github
+```
+```
 
 First, run the development server:
+
 
 ```bash
 npm run dev
